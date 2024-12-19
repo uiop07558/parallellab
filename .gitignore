@@ -1,0 +1,6 @@
+image_processor
+image_generator
+input.ppm
+output.ppm
+.vscode/
+.clangd
